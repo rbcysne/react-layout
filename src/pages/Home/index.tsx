@@ -26,7 +26,7 @@ const Home = () => {
                         <Link to="/catalog">
                             <Button texto={"Ver Catálogo"}/>
                         </Link>
-                    <span>Comece a agora a navegar</span>
+                    <span>Comece agora a navegar</span>
                 </div>
             </div>
         </>
